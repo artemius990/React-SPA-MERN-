@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"store.afisha"}],"uuid":"4e2d87f48ef348cfb4153fee5beb21e0"}
